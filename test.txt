@@ -1,4 +1,4 @@
-#Данные из Fiddler
+#Данные из Fiddler 2
 # запрос без ошибки 
 
 POST https://rshb-stg.eftr.ru/M2/api/hub.axd/RSHB/RSHBBroker/AuthService/Authorize/Confirm HTTP/1.1
